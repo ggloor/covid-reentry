@@ -10,7 +10,7 @@ output:
         latex_engine: xelatex
         keep_tex: true
         fig_caption: true
-        toc: false
+        toc: true
         toc_depth: 2
         dev: pdf
         pandoc_args: ["-V", "classoption=onecolumn"]
@@ -21,6 +21,7 @@ output:
 ### 8/05/2020 Shoemaker/Pritchard
 
 Western is preparing to get people back on campus. However, the new normal will not be the old normal. We are not at the end of this, just a (very) mild hiatus. Modeling suggests that there is a good likelihood of a second wave this fall, and continual recurrences until a vaccine is developed and implemented.
+
 
 ## Core principles
 
@@ -121,6 +122,23 @@ Western is preparing to get people back on campus. However, the new normal will 
 
 	+ Chair has responsibility to report
 
+## Needs
+
+1. Checklist for each lab
+
+2. General tracking system for individuals with ability to retrospectively inspect
+
+3. Scheduling software (central, distributed?) for shift-working lab personell
+
+4. Guidance on what rules take precedence. Health and safety, fire, and COVID-19 regulations seem to be at odds here. eg.
+
+    + how do we keep open workspaces with good airflow and maintain fire regulation compliance?
+
+    + how do we maintain good supervisory practices and shift work?
+
+    + how do we do one-on-one hands-on training which is crucial for many instruments?
+
+5. Rules for accommodation
 
 This is a nicely reasoned and explained post on the current state of knowlege: **[know the risks blog post](https://www.erinbromage.com/post/the-risks-know-them-avoid-them?fbclid=IwAR0Ph8Qq8sXUJyGYZhPb_J2WV6_eURP7rYbs44-LOYdMfNMWtwTXoJqi2EE)**
 
