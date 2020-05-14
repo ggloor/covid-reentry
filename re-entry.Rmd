@@ -1,0 +1,126 @@
+---
+title: "Biochemistry re-entry"
+author: "Greg Gloor"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+geometry: margin=2cm
+bibliography: /Users/ggloor/Library/texmf/bibtex/bib/bibdesk_refs.bib
+csl: /Users/ggloor/Documents/0_git/csl_styles/frontiers.csl
+output:
+    pdf_document:
+        latex_engine: xelatex
+        keep_tex: true
+        fig_caption: true
+        toc: false
+        toc_depth: 2
+        dev: pdf
+        pandoc_args: ["-V", "classoption=onecolumn"]
+---
+
+# Return to work protocol (v0.1)
+
+### 8/05/2020 Shoemaker/Pritchard
+
+Western is preparing to get people back on campus. However, the new normal will not be the old normal. We are not at the end of this, just a (very) mild hiatus. Modeling suggests that there is a good likelihood of a second wave this fall, and continual recurrences until a vaccine is developed and implemented.
+
+## Core principles
+
+1. follow all **[local public health guidelines](https://www.healthunit.com/covid-19-prevent-the-spread)**
+
+   + the current **[workplace guidance document](http://www.health.gov.on.ca/en/pro/programs/publichealth/coronavirus/docs/2019_essential_workplaces_guidance.pdf)** is what we will have at the moment
+
+   + stay home if you are sick, or have travelled
+
+       + complete the **[return to work questionnaire](https://myhr.uwo.ca)** at https://myhr.uwo.ca
+
+       + this will likely be a daily occurrence
+
+   + social distancing and enhanced hygiene practices
+
+   + clean in and clean out of workspaces
+
+       + dilute H~2~O~2~
+
+   + responsible for own safety and cleaning
+
+   + FM will clean common areas and high touch-points
+
+   + signage on and in labs
+
+   + want to keep it as simple as possible
+
+2. phased return
+
+	+ when allowed
+
+    + return will involve multiple self-reporting questionaires
+
+    + weeks, not days between phases
+
+    + likely about 20% of workforce per phased
+
+    + new normal will be 60% occupancy at most
+
+    + shiftwork is being considered for teaching and research
+
+    + each building will be isolated in some way
+
+    	+ Western is considering building by building screening
+
+    	+ probably impractical
+
+3. remote work continues if possible
+
+4. safety of individual is key
+
+    + must accomodate individuals as needed
+
+    + should not rely on PPE as wil be scarce and prioritized
+
+    + lab pinch points are key concern
+
+    + identify what is needed to restart now and get it ordered
+
+    + lab by lab protocol
+
+    + co-operation between labs for over and under utilized space
+
+
+5. Each PI will generate a plan for each lab
+
+	+ lab-specific plans
+
+	+ keeping in mind all of the above
+
+	+ physical and temporal distancing
+
+		+ safety and mentoring
+
+		+ core facilities?
+
+	+ aware of all contacts and report if necessary
+
+	+ mentorship structuring
+
+	+ booking of facilities and equipment
+
+	+ PI prioritizes what works for them
+
+	+ be aware of, and sensitive to, others feelings and fears
+
+		+ there is a power imbalance
+
+	+ **[example return to lab guidelines](https://docs.google.com/spreadsheets/d/1uwgvRFWeSh9VgWA8hBuEy0JOsIGv9IwexI6_6w3-lIs/edit#gid=0)** google document
+
+6. Guidelines may change in either direction on short notice
+
+	+ u-turns for non-compliance
+
+	+ u-turn if lab/building/institution becomes an infection focus
+
+	+ identified by lab director
+
+	+ Chair has responsibility to report
+
+
+This is a nicely reasoned and explained post on the current state of knowlege: **[know the risks blog post](https://www.erinbromage.com/post/the-risks-know-them-avoid-them?fbclid=IwAR0Ph8Qq8sXUJyGYZhPb_J2WV6_eURP7rYbs44-LOYdMfNMWtwTXoJqi2EE)**
+
