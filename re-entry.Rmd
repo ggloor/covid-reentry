@@ -8,7 +8,7 @@ csl: /Users/ggloor/Documents/0_git/csl_styles/frontiers.csl
 output:
     pdf_document:
         latex_engine: xelatex
-        keep_tex: true
+        keep_tex: false
         fig_caption: true
         toc: true
         toc_depth: 2
@@ -122,7 +122,7 @@ Western is preparing to get people back on campus. However, the new normal will 
 
 	+ Chair has responsibility to report
 
-## Needs
+## Needs and clarifications
 
 1. Checklist for each lab
 
