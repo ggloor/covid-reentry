@@ -146,6 +146,8 @@ Western is preparing to get people back on campus. However, the new normal will 
 
     + what PPE are required for each task?
 
+        + what woud be the monthly needs?
+
     + what additional training is required?
 
 2. General tracking system for individuals with ability to retrospectively inspect
@@ -155,6 +157,8 @@ Western is preparing to get people back on campus. However, the new normal will 
     + registry and scheduling of people in adjacent spaces?
 
     + what kind of automated tracking can be enabled? that is touch free?
+
+    + who is accountable for what?
 
 4. Guidance on what rules take precedence. Health and safety, fire, and COVID-19 regulations seem to be at odds here. eg.
 
