@@ -37,9 +37,27 @@ Western is preparing to get people back on campus. However, the new normal will 
 
    + social distancing and enhanced hygiene practices
 
-   + clean in and clean out of workspaces
+   + clean in and clean out of workspaces with an approved product containing the following **[ingredients](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/guidelines/interim-list-of-household-products-and-active-ingredients-for-disinfection-of-covid-19)**
 
-       + dilute H~2~O~2~
+        + Accelerated hydrogen peroxide# (0.5%)	 1  min contact
+
+		+ 	Benzalkonium chloride* (0.05%)	 10 min contact
+
+		+ 	Chloroxylenol (0.12%) 	 10 min contact
+
+		+  	Ethyl alcohol (70%)	 10 min contact
+
+		+  	Iodine in iodophor (50 ppm) 	 10 min contact
+
+		+  	Isopropanol (50%)	 10 min contact
+
+		+  	Povidone-iodine (1% iodine)	 1 min contact
+
+		+  	Sodium hypochlorite  (0.05 – 0.5%)	 5 min contact
+
+		+ 	Sodium chlorite (0.23%)	 10 min contact
+
+        + **[Health canada approved product list](https://www.canada.ca/en/health-canada/services/drugs-health-products/disinfectants/covid-19/list.html)**
 
    + responsible for own safety and cleaning
 
@@ -110,7 +128,7 @@ Western is preparing to get people back on campus. However, the new normal will 
 
 		+ there is a power imbalance
 
-	+ **[example return to lab guidelines](https://docs.google.com/spreadsheets/d/1uwgvRFWeSh9VgWA8hBuEy0JOsIGv9IwexI6_6w3-lIs/edit#gid=0)** google document
+	+ **[example return to lab guidelines](https://docs.google.com/spreadsheets/d/1uwgvRFWeSh9VgWA8hBuEy0JOsIGv9IwexI6_6w3-lIs/)** google document
 
 6. Guidelines may change in either direction on short notice
 
@@ -126,9 +144,17 @@ Western is preparing to get people back on campus. However, the new normal will 
 
 1. Checklist for each lab
 
+    + what PPE are required for each task?
+
+    + what additional training is required?
+
 2. General tracking system for individuals with ability to retrospectively inspect
 
 3. Scheduling software (central, distributed?) for shift-working lab personell
+
+    + registry and scheduling of people in adjacent spaces?
+
+    + what kind of automated tracking can be enabled? that is touch free?
 
 4. Guidance on what rules take precedence. Health and safety, fire, and COVID-19 regulations seem to be at odds here. eg.
 
@@ -137,6 +163,9 @@ Western is preparing to get people back on campus. However, the new normal will 
     + how do we maintain good supervisory practices and shift work?
 
     + how do we do one-on-one hands-on training which is crucial for many instruments?
+
+    + transportation to and from work - allowances for parking on campus given low density occupancy
+
 
 5. Rules for accommodation
 
